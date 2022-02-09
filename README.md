@@ -5,7 +5,7 @@ This project is developed to provide guidance on how to convert your 1D or 2D da
 
 To make it easy to follow, you can download this notebook at Github and follow along with this step by step tutorial in Youtube.
 
-- https://youtu.be/pPxMHrXRRIc
+- https://youtu.be/Ng_uGKcWfIo
 
 =========================================================================
 
